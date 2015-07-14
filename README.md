@@ -12,8 +12,7 @@
 7. Click *Run*
 8. After that the configuration link will be available in the Run icon
 
-
-In the second time you can use for step 5: 
+Next time you run the application you may use for step 5: 
 * **-o tomcat:run**
 
 
