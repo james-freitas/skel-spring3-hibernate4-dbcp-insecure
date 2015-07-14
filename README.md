@@ -1,6 +1,6 @@
 Spring 3 insecure web application with Hibernate and DBCP
 
-Using Eclipse Maven Plugin
+Using Eclipse Maven Plugin to run the project for the first time
 
 1. Select the project
 2. Go at menu Run > Run Configurations
@@ -12,6 +12,12 @@ Using Eclipse Maven Plugin
 7. Click Run
 8. After that the configuration link will be available in the Run icon
 
-Other option for step 5:
+
+In the second time you can use for step 5: 
+-o tomcat:run
+
+
+Other options for step 5:
 -o clean package tomcat:run-war
+
 -Dmaven.tomcat.port=8086 tomcat:run
