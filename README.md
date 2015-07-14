@@ -22,8 +22,3 @@ Other options for step 5:
 * **-o clean package tomcat:run-war**
 * **Dmaven.tomcat.port=8086 tomcat:run**
 
-
-```java
-System.out.println("James");
-Brave brave = new Brave();
-```
