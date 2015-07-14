@@ -12,8 +12,8 @@
 6. Click in *Browse Workspace* and select the your project
 7. In Name specify **<Project-Name> - Run Tomcat Without Downloads** 
 7. Click *Run*
-8. After that the configuration link will be available in the Run icon
-9. Access the web application in **http://localhost:8080/sphidb**
+8. After the Maven processing, access the web application in **http://localhost:8080/sphidb**
+9. Afterwards the configuration link will be available in the Run icon on Eclipse IDE
 
 Next time you run the application you may use for step 5: 
 * **-o tomcat:run**
