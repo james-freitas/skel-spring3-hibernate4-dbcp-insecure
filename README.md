@@ -1,5 +1,7 @@
 ### Spring 3 insecure web application with Hibernate and DBCP
 
+- Create the mysql database sphidb in the port 3306
+
 ##### Using Eclipse Maven Plugin to run the project for the first time
 
 1. Select the project
