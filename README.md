@@ -1,6 +1,6 @@
 ### Spring 3 insecure web application with Hibernate and DBCP
 
-- Create the mysql database sphidb in the port 3306
+- Create the mysql database **sphidb** in the port **3306**
 
 ##### Using Eclipse Maven Plugin to run the project for the first time
 
@@ -13,7 +13,7 @@
 7. In Name specify **<Project-Name> - Run Tomcat Without Downloads** 
 7. Click *Run*
 8. After the Maven processing, access the web application in **http://localhost:8080/sphidb**
-9. Afterwards the configuration link will be available in the Run icon on Eclipse IDE
+9. Afterwards the run configuration option will be available in the **Run** icon on **Eclipse IDE**
 
 Next time you run the application you may use for step 5: 
 * **-o tomcat:run**
